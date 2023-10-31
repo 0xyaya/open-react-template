@@ -56,8 +56,8 @@ export default function Hero() {
                             data-aos-delay="200">
                             Transform your products and services in a
                             eco-friendly version by infusing it with carbon
-                            credits. That will unlock new incentivized features
-                            for you infused assets.
+                            credits. That will unlock new features for your
+                            infused assets.
                         </p>
                         <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
                             <div data-aos="fade-up" data-aos-delay="400">
